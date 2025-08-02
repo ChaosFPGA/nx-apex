@@ -109,10 +109,9 @@ Ensure your Switch is running a compatible CFW (e.g., Atmosphere) and follow a t
 
 ## Usage Notes
 
-- **Offline Only**: Use cheats in offline modes (e.g., Training, Bot Royale) to minimize ban risks. Online play with cheats may trigger EA’s anti-cheat (EAC) or Nintendo’s server checks.
-- **Ban Protection**: Install **90DNS** or **Incognito** to block Nintendo servers. Backup your NAND via Hekate before modding.
+- **Ban Protection**: Backup your NAND via Hekate before modding and setup CFW SysNand, CFW EmuMMC etc...
 - **Compatibility**: Ensure your *Apex Legends* version matches the cheat’s BuildID to avoid crashes. Update cheats after game patches.
-- **Stability**: Features like 120 FPS or server-side name changer are experimental and may not work due to Switch hardware limits and server validation.
+- **Stability**: Features like 120 FPS are experimental and may not work due to Switch hardware limits.
 - **Support**: Contact `@ChaosFPGA` on Discord for technical support or updates.
 
 ## Risks and Limitations
